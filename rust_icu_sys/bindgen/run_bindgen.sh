@@ -40,7 +40,7 @@ readonly BINDGEN_SOURCE_MODULES=(
         "udat"
         "udata"
         "uenum"
-        "ufieldpositer"
+        # no on Centos7 "ufieldpositer"
         "uformattable"
         "ulistformatter"
         "umisc"
